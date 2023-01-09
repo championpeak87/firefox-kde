@@ -226,7 +226,6 @@ Patch21:        mozilla-libavcodec58_91.patch
 Patch22:        mozilla-silence-no-return-type.patch
 Patch23:        mozilla-bmo531915.patch
 Patch25:        one_swizzle_to_rule_them_all.patch
-Patch26:        svg-rendering.patch
 Patch27:        mozilla-buildfixes.patch
 # Firefox/browser
 Patch101:       firefox-kde.patch
