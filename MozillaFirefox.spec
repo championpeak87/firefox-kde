@@ -180,7 +180,7 @@ License:        MPL-2.0
 Group:          Productivity/Networking/Web/Browsers
 URL:            http://www.mozilla.org/
 %if !%{with only_print_mozconfig}
-Source:         http://ftp.mozilla.org/pub/%{srcname}/releases/%{version}%{orig_suffix}/source/%{srcname}-%{orig_version}%{orig_suffix}.source.tar.xz
+Source:         https://ftp.mozilla.org/pub/%{srcname}/releases/%{version}%{orig_suffix}/source/%{srcname}-%{orig_version}%{orig_suffix}.source.tar.xz
 Source1:        MozillaFirefox.desktop
 Source2:        MozillaFirefox-rpmlintrc
 Source3:        mozilla.sh.in
